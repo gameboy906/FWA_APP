@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FWA2_0</string>
+    <string name="str_Anmeldung">Anmelden</string>
+    <string name="str_btn_Anmelden">Anmelden</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_firework">FireworkActivity</string>
+</resources>
